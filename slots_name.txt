@@ -1,0 +1,66 @@
+Total unique slots found: 29
+
+Slots and their frequencies:
+----------------------------------------
+none: 59270
+area: 22619
+name: 21051
+type: 15801
+pricerange: 14491
+food: 10952
+choice: 10759
+bookpeople: 10492
+leaveat: 10322
+phone: 10186
+address: 9682
+ref: 9369
+destination: 9060
+departure: 9032
+bookday: 8102
+arriveby: 7998
+postcode: 6864
+day: 6743
+stars: 5571
+booktime: 4872
+bookstay: 4703
+trainid: 4253
+parking: 4211
+internet: 4139
+price: 3588
+entrancefee: 3542
+duration: 1746
+department: 256
+openhours: 16
+
+
+Alphabetical list of unique slots:
+----------------------------------------
+address
+area
+arriveby
+bookday
+bookpeople
+bookstay
+booktime
+choice
+day
+department
+departure
+destination
+duration
+entrancefee
+food
+internet
+leaveat
+name
+none
+openhours
+parking
+phone
+postcode
+price
+pricerange
+ref
+stars
+trainid
+type
